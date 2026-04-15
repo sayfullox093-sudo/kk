@@ -1,0 +1,159 @@
+.big{
+width: 1400px;
+height: 1024px;
+border: 2px solid rgb(216, 6, 6);
+margin: 0 auto;
+ display: flex;
+ flex-wrap: wrap;
+gap: 100px;
+padding:85px 180px 85px 180px;
+}
+.box1{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+padding: 8px;
+gap: 5px;
+
+}
+.box2{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+gap: 5px;
+padding: 8px;
+}
+.box3{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+padding: 8px;
+}
+.box4{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+padding: 8px;
+}
+.box5{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+padding: 8px;
+} 
+.box6{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+justify-content: flex-end;
+padding: 8px;
+}
+.box7{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+justify-content: center;
+padding: 8px;
+}
+.box8{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+padding: 8px;
+}
+.box9{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+padding: 8px;
+}
+.box10{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+padding: 8px;
+flex-wrap: wrap;
+gap: 5px;
+align-items: end;
+}
+.box11{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+align-items: center;
+padding: 8px;
+}
+.box12{
+width: 240px;
+height: 240px;
+background-color: blueviolet;
+border: 1px solid black;
+border-radius: 8px;
+display: flex;
+flex-wrap: wrap;
+gap: 5px;
+padding: 8px;
+justify-content: space-around;
+
+}
+
+.boxcha{
+width: 50px;
+height: 50px;
+border-radius: 8px;
+border: 1px solid black;
+background-color: orange;
+}
+
